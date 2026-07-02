@@ -1,0 +1,11 @@
+/* BREADCRUMB */
+.breadcrumb-section{
+    background-image: url(../images/img/section-top.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.breadcrumb-item a{
+    color: var(--primaryColor) !important;
+}
+/* END BREADCRUMB */
